@@ -1,0 +1,2 @@
+To do:
+Optimize the requests, check if the password is found between each requests if multiple requests are made. The BruteForce would then be faster.
